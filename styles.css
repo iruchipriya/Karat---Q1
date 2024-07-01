@@ -1,0 +1,25 @@
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.user-block {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.user-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.todo-item {
+  font-size: 1em;
+  margin-left: 20px;
+  padding: 5px 0;
+}
